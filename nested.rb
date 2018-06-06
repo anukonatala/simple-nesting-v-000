@@ -111,7 +111,7 @@ def changing_alan
      
      programmer_hash[:alan_kay][:known_for] = "GUI"
      
-     puts "#{programmer_hash[:alan_kay][:known_for]}"
+     puts "#{changing_alan[:alan_kay][:known_for]}"
      
 end
 
