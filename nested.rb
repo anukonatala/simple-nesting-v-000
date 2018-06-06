@@ -40,6 +40,8 @@ def alan_kay_is_known_for
      programmer_hash[:alan_kay][:known_for].value
 end
 
+puts "#{alan_kay_is_known_for}"
+
 def dennis_ritchies_language
 	programmer_hash = 
  		{
